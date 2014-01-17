@@ -3,7 +3,7 @@
   "repo": "jb55/visible",
   "description": "Make an element visible",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["visible", "visibility"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
