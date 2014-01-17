@@ -1,0 +1,14 @@
+{
+  "name": "visible",
+  "repo": "jb55/visible",
+  "description": "Make an element visible",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
